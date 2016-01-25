@@ -10,6 +10,13 @@
           box-sizing: border-box;
 }
 
+.background-image {
+  background-image: url("../styles/images/header.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 200px;
+}
+
 h1 {
   color: blue;
 }
