@@ -17,3 +17,11 @@ The default grid has 12 columns
 The class calls for col-SIZE-SPAN : column-when it stacks like 'm d'-how many columns
 
 They also have a default of 30px gutters (15px on each side)
+
+
+
+__Extra Notes__
+
+*Look further into clearfix class and responsive utility classes for difficult layout issues*
+
+Offsets can potentially effect layouts in unexpected ways so be careful!
